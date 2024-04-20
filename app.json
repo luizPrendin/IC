@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "cp02-sick-mode",
+    "slug": "snack-6d0409b3-e1b7-4a93-8e24-dc0f23d9dd3d",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.rrussano.snack6d0409b3e1b74a938e24dc0f23d9dd3d"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0cf2782d-23c2-4da6-9a5f-c28757477b4b"
+      }
+    }
+  }
+}
