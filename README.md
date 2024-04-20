@@ -2,6 +2,9 @@
 
 Professor: Fernando Pinéo
 
+Usuário: Fernando
+Senha: CP02Mobile
+
 ## Alunos
 
 Desenvolver um app em React Native utilizando:
