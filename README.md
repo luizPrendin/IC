@@ -3,8 +3,8 @@
 Professor: Fernando Pinéo
 
 
-> Usuário: Fernando
-> Senha: CP02Mobile
+- Usuário: Fernando
+- Senha: CP02Mobile
 
 ## Alunos
 
