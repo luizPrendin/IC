@@ -24,6 +24,6 @@ Desenvolver um app em React Native utilizando:
 
 ## APK Download Link:
 
-[Link para download do APK](coloque_aqui_o_link_para_download)
+[Link para download do APK](https://drive.google.com/file/d/19aDr6F33NByADn8ih2LWdOckZQIjs9RR/view?usp=sharing)
 
 ![Quack!](https://i.ibb.co/0V1sxL8/pato.png)
