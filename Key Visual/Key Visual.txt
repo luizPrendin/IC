@@ -1,0 +1,18 @@
+Fonte: Poppins
+https://fonts.google.com/specimen/Poppins
+
+Rosa claro
+FFAFFF
+
+Roxo
+6030A0
+
+Roxo alternativa
+6030A0 (50%)
+
+Cinza
+8D8D8D
+
+Cinza Claro
+A5A5A5 (50%)
+
